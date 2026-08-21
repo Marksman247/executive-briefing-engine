@@ -30,9 +30,8 @@ An end-to-end automated ETL and AI reporting pipeline built in n8n. It extracts 
 ## 🚀 How to Import & Run
 
 1. Clone this repository:
-   \\\ash
+   bash
    git clone https://github.com/Marksman247/executive-briefing-engine.git
-   \\\
 2. Import \workflows/workflow.json\ into your n8n instance.
 3. Configure your **Google Sheets** and **Groq API** credentials inside n8n.
 4. Execute the workflow manually or attach a **Cron Schedule** trigger.
